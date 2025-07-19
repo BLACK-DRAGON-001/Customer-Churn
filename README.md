@@ -83,8 +83,3 @@ Customer churn occurs when customers stop doing business with a company. This pr
 ---
 
 Created by Sarthak Dey
-
-### 1. Clone this Repository
-```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
-cd customer-churn-analysis
