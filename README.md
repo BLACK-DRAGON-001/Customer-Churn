@@ -82,7 +82,7 @@ Customer churn occurs when customers stop doing business with a company. This pr
 
 ---
 
-## ▶️ How to Run This Project
+Created by Sarthak Dey
 
 ### 1. Clone this Repository
 ```bash
